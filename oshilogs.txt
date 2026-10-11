@@ -1,0 +1,462 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VMYWlkYQ/c21hcG9ja2VMYWlkYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Laida =====
+[1]Laida       |09:10:52 | 11-10-2026| login OK @laidawinata | score=930 rank=6340
+[1]Laida       |09:10:52 | 11-10-2026| serverTime=2026-10-11T09:10:51.000Z local=2026-10-11T09:10:52.018Z
+--> [1]Laida menjalankan: Claim Daily
+[1]Laida       |09:10:53 | 11-10-2026| daily: sudah klaim (already=true) score=930
+--> [1]Laida menjalankan: Auto All Tasks (3 pending)
+[1]Laida       |09:11:00 | 11-10-2026| [1/3] 6115b157 (follow) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Laida       |09:11:00 | 11-10-2026| delay 10s...
+[1]Laida       |09:11:17 | 11-10-2026| [2/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laidawinata/status/2109209895749029255
+[1]Laida       |09:11:17 | 11-10-2026| delay 10s...
+[1]Laida       |09:11:31 | 11-10-2026| [3/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/laidawinata/status/2109209983771825151
+[1]Laida       |09:11:31 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laida       |09:11:33 | 11-10-2026| [1/1] 6115b157 (follow) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032
+--> [1]Laida menjalankan: Watch Anime
+[1]Laida       |09:11:33 | 11-10-2026| watch: 3 video belum completed: oshi-studio-product-film,oshi-clash-launch-trailer,oshi-first-journey
+[1]Laida       |09:11:33 | 11-10-2026| watch [1/3] farming oshi-studio-product-film...
+[1]Laida       |09:11:35 | 11-10-2026| watch oshi-studio-product-film: mulai dari 0 (record 33.2s diabaikan)
+[1]Laida       |09:11:37 | 11-10-2026| watch oshi-studio-product-film: 51% (33.21/64.00s)
+[1]Laida       |09:11:43 | 11-10-2026| watch oshi-studio-product-film: 51% (33.21/64.00s)
+[1]Laida       |09:11:50 | 11-10-2026| watch oshi-studio-product-film: 53% (34.44/64.00s)
+[1]Laida       |09:11:57 | 11-10-2026| watch oshi-studio-product-film: 53% (34.44/64.00s)
+[1]Laida       |09:12:03 | 11-10-2026| watch oshi-studio-product-film: 53% (34.44/64.00s)
+[1]Laida       |09:12:09 | 11-10-2026| watch oshi-studio-product-film: 53% (34.44/64.00s)
+[1]Laida       |09:12:17 | 11-10-2026| watch oshi-studio-product-film: 56% (35.85/64.00s)
+[1]Laida       |09:12:23 | 11-10-2026| watch oshi-studio-product-film: 65% (42.08/64.00s)
+[1]Laida       |09:12:30 | 11-10-2026| watch oshi-studio-product-film: 74% (47.69/64.00s)
+[1]Laida       |09:12:36 | 11-10-2026| watch oshi-studio-product-film: 83% (53.49/64.00s)
+[1]Laida       |09:12:45 | 11-10-2026| watch oshi-studio-product-film: 92% (59.19/64.00s)
+[1]Laida       |09:12:45 | 11-10-2026| watch oshi-studio-product-film: COMPLETED (59.19/64.00s)
+[1]Laida       |09:12:50 | 11-10-2026| watch [2/3] farming oshi-clash-launch-trailer...
+[1]Laida       |09:12:51 | 11-10-2026| watch oshi-clash-launch-trailer: mulai dari 0 (record 46.6s diabaikan)
+[1]Laida       |09:12:52 | 11-10-2026| watch oshi-clash-launch-trailer: 77% (46.61/60.00s)
+[1]Laida       |09:13:01 | 11-10-2026| watch oshi-clash-launch-trailer: 77% (46.61/60.00s)
+[1]Laida       |09:13:07 | 11-10-2026| watch oshi-clash-launch-trailer: 78% (47.03/60.00s)
+[1]Laida       |09:13:16 | 11-10-2026| watch oshi-clash-launch-trailer: 78% (47.03/60.00s)
+[1]Laida       |09:13:23 | 11-10-2026| watch oshi-clash-launch-trailer: 78% (47.03/60.00s)
+[1]Laida       |09:13:29 | 11-10-2026| watch oshi-clash-launch-trailer: 78% (47.03/60.00s)
+[1]Laida       |09:13:37 | 11-10-2026| watch oshi-clash-launch-trailer: 79% (47.76/60.00s)
+[1]Laida       |09:13:45 | 11-10-2026| watch oshi-clash-launch-trailer: 81% (49.08/60.00s)
+[1]Laida       |09:13:57 | 11-10-2026| watch oshi-clash-launch-trailer: 89% (53.45/60.00s)
+[1]Laida       |09:14:05 | 11-10-2026| watch oshi-clash-launch-trailer: 100% (60.00/60.00s)
+[1]Laida       |09:14:05 | 11-10-2026| watch oshi-clash-launch-trailer: COMPLETED (60.00/60.00s)
+[1]Laida       |09:14:10 | 11-10-2026| watch [3/3] farming oshi-first-journey...
+[1]Laida       |09:14:16 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Laida       |09:14:23 | 11-10-2026| watch oshi-first-journey: 8% (7.06/87.00s)
+[1]Laida       |09:14:30 | 11-10-2026| watch oshi-first-journey: 15% (13.58/87.00s)
+[1]Laida       |09:14:37 | 11-10-2026| watch oshi-first-journey: 22% (19.85/87.00s)
+[1]Laida       |09:14:44 | 11-10-2026| watch oshi-first-journey: 29% (25.51/87.00s)
+[1]Laida       |09:14:52 | 11-10-2026| watch oshi-first-journey: 36% (32.07/87.00s)
+[1]Laida       |09:14:58 | 11-10-2026| watch oshi-first-journey: 44% (38.39/87.00s)
+[1]Laida       |09:15:05 | 11-10-2026| watch oshi-first-journey: 50% (44.07/87.00s)
+[1]Laida       |09:15:13 | 11-10-2026| watch oshi-first-journey: 57% (50.30/87.00s)
+[1]Laida       |09:15:24 | 11-10-2026| watch oshi-first-journey: 66% (57.79/87.00s)
+[1]Laida       |09:15:33 | 11-10-2026| watch oshi-first-journey: 77% (67.04/87.00s)
+[1]Laida       |09:15:40 | 11-10-2026| watch oshi-first-journey: 84% (73.72/87.00s)
+[1]Laida       |09:15:49 | 11-10-2026| watch oshi-first-journey: 92% (80.16/87.00s)
+[1]Laida       |09:15:49 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.16/87.00s)
+--> [1]Laida menjalankan: Read Article
+[1]Laida       |09:15:52 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Laida       |09:15:54 | 11-10-2026| mint eligibility: {"userId":"2011508176097853443","youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a10a","submittedAt":1791686884,"reviewedAt":179
+[1]Laida       |09:15:54 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Laida menjalankan: Quiz Anime
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Laida       |09:15:56 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Laida menjalankan: Music Missions (realtime, bisa lama!)
+[1]Laida       |09:16:00 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Laida       |09:16:11 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Laida       |09:16:22 | 11-10-2026| music "記憶の名前": 8% (18.9846/224s)
+[1]Laida       |09:16:34 | 11-10-2026| music "記憶の名前": 12% (28.9089/224s)
+[1]Laida       |09:16:46 | 11-10-2026| music "記憶の名前": 17% (39.4128/224s)
+[1]Laida       |09:16:57 | 11-10-2026| music "記憶の名前": 22% (50.0787/224s)
+[1]Laida       |09:17:10 | 11-10-2026| music "記憶の名前": 27% (60.5457/224s)
+[1]Laida       |09:17:23 | 11-10-2026| music "記憶の名前": 32% (72.009/224s)
+[1]Laida       |09:17:36 | 11-10-2026| music "記憶の名前": 37% (83.4921/224s)
+[1]Laida       |09:17:48 | 11-10-2026| music "記憶の名前": 42% (95.81309999999999/224s)
+[1]Laida       |09:17:59 | 11-10-2026| music "記憶の名前": 47% (105.7545/224s)
+[1]Laida       |09:18:12 | 11-10-2026| music "記憶の名前": 51% (115.71839999999999/224s)
+[1]Laida       |09:18:23 | 11-10-2026| music "記憶の名前": 57% (127.81079999999999/224s)
+[1]Laida       |09:18:35 | 11-10-2026| music "記憶の名前": 61% (137.9835/224s)
+[1]Laida       |09:18:46 | 11-10-2026| music "記憶の名前": 66% (148.1454/224s)
+[1]Laida       |09:18:57 | 11-10-2026| music "記憶の名前": 70% (158.103/224s)
+[1]Laida       |09:19:10 | 11-10-2026| music "記憶の名前": 75% (168.363/224s)
+[1]Laida       |09:19:21 | 11-10-2026| music "記憶の名前": 80% (179.5392/224s)
+[1]Laida       |09:19:32 | 11-10-2026| music "記憶の名前": 84% (190.0512/224s)
+[1]Laida       |09:19:33 | 11-10-2026| music "記憶の名前": selesai 190.0512s
+[1]Laida       |09:19:36 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Laida       |09:19:47 | 11-10-2026| music "Smart Pocket": 3% (9.0009/232s)
+[1]Laida       |09:20:00 | 11-10-2026| music "Smart Pocket": 8% (19.2015/232s)
+[1]Laida       |09:20:11 | 11-10-2026| music "Smart Pocket": 13% (30.762900000000002/232s)
+[1]Laida       |09:20:22 | 11-10-2026| music "Smart Pocket": 17% (40.6647/232s)
+[1]Laida       |09:20:33 | 11-10-2026| music "Smart Pocket": 21% (50.598000000000006/232s)
+[1]Laida       |09:20:45 | 11-10-2026| music "Smart Pocket": 26% (60.90390000000001/232s)
+[1]Laida       |09:21:01 | 11-10-2026| music "Smart Pocket": 30% (71.61930000000001/232s)
+[1]Laida       |09:21:15 | 11-10-2026| music "Smart Pocket": 36% (85.38750000000002/232s)
+[1]Laida       |09:21:27 | 11-10-2026| music "Smart Pocket": 42% (98.19990000000001/232s)
+[1]Laida       |09:21:39 | 11-10-2026| music "Smart Pocket": 46% (108.68220000000001/232s)
+[1]Laida       |09:21:50 | 11-10-2026| music "Smart Pocket": 51% (119.808/232s)
+[1]Laida       |09:22:04 | 11-10-2026| music "Smart Pocket": 55% (129.7467/232s)
+[1]Laida       |09:22:15 | 11-10-2026| music "Smart Pocket": 61% (142.2756/232s)
+[1]Laida       |09:22:27 | 11-10-2026| music "Smart Pocket": 65% (152.3871/232s)
+[1]Laida       |09:22:39 | 11-10-2026| music "Smart Pocket": 70% (163.06380000000001/232s)
+[1]Laida       |09:22:50 | 11-10-2026| music "Smart Pocket": 74% (173.59560000000002/232s)
+[1]Laida       |09:23:02 | 11-10-2026| music "Smart Pocket": 79% (184.02840000000003/232s)
+[1]Laida       |09:23:13 | 11-10-2026| music "Smart Pocket": 83% (194.75460000000004/232s)
+[1]Laida       |09:23:14 | 11-10-2026| music "Smart Pocket": selesai 194.75460000000004s
+[1]Laida       |09:23:17 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Laida       |09:23:29 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Laida       |09:23:40 | 11-10-2026| music "神様みたいに": 7% (19.458/254s)
+[1]Laida       |09:23:53 | 11-10-2026| music "神様みたいに": 11% (29.61/254s)
+[1]Laida       |09:24:05 | 11-10-2026| music "神様みたいに": 16% (41.6295/254s)
+[1]Laida       |09:24:17 | 11-10-2026| music "神様みたいに": 20% (51.9471/254s)
+[1]Laida       |09:24:28 | 11-10-2026| music "神様みたいに": 24% (63.09/254s)
+[1]Laida       |09:24:40 | 11-10-2026| music "神様みたいに": 28% (73.1205/254s)
+[1]Laida       |09:24:52 | 11-10-2026| music "神様みたいに": 33% (83.8485/254s)
+[1]Laida       |09:25:03 | 11-10-2026| music "神様みたいに": 37% (94.2354/254s)
+[1]Laida       |09:25:15 | 11-10-2026| music "神様みたいに": 41% (104.7654/254s)
+[1]Laida       |09:25:29 | 11-10-2026| music "神様みたいに": 45% (114.7635/254s)
+[1]Laida       |09:25:40 | 11-10-2026| music "神様みたいに": 50% (127.28609999999999/254s)
+[1]Laida       |09:25:51 | 11-10-2026| music "神様みたいに": 54% (137.20139999999998/254s)
+[1]Laida       |09:26:03 | 11-10-2026| music "神様みたいに": 58% (147.61169999999998/254s)
+[1]Laida       |09:26:14 | 11-10-2026| music "神様みたいに": 62% (158.17409999999998/254s)
+[1]Laida       |09:26:26 | 11-10-2026| music "神様みたいに": 66% (168.20279999999997/254s)
+[1]Laida       |09:26:38 | 11-10-2026| music "神様みたいに": 70% (179.37629999999996/254s)
+[1]Laida       |09:26:50 | 11-10-2026| music "神様みたいに": 74% (189.86489999999995/254s)
+[1]Laida       |09:27:01 | 11-10-2026| music "神様みたいに": 78% (200.62889999999996/254s)
+[1]Laida       |09:27:13 | 11-10-2026| music "神様みたいに": 83% (210.93299999999996/254s)
+[1]Laida       |09:27:14 | 11-10-2026| music "神様みたいに": selesai 210.93299999999996s
+[1]Laida       |09:27:16 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Laida       |09:27:28 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Laida       |09:27:42 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.6443/269s)
+[1]Laida       |09:27:53 | 11-10-2026| music "せーので、飛ぼう！": 11% (31.8429/269s)
+[1]Laida       |09:28:06 | 11-10-2026| music "せーので、飛ぼう！": 15% (42.515100000000004/269s)
+[1]Laida       |09:28:17 | 11-10-2026| music "せーので、飛ぼう！": 19% (53.441100000000006/269s)
+[1]Laida       |09:28:28 | 11-10-2026| music "せーので、飛ぼう！": 23% (63.56250000000001/269s)
+[1]Laida       |09:28:40 | 11-10-2026| music "せーので、飛ぼう！": 27% (73.4715/269s)
+[1]Laida       |09:28:53 | 11-10-2026| music "せーので、飛ぼう！": 31% (84.75750000000001/269s)
+[1]Laida       |09:29:05 | 11-10-2026| music "せーので、飛ぼう！": 35% (96.46470000000001/269s)
+[1]Laida       |09:29:17 | 11-10-2026| music "せーので、飛ぼう！": 39% (107.0784/269s)
+[1]Laida       |09:29:29 | 11-10-2026| music "せーので、飛ぼう！": 43% (118.0134/269s)
+[1]Laida       |09:29:40 | 11-10-2026| music "せーので、飛ぼう！": 47% (128.4399/269s)
+[1]Laida       |09:29:54 | 11-10-2026| music "せーので、飛ぼう！": 51% (138.3687/269s)
+[1]Laida       |09:30:05 | 11-10-2026| music "せーので、飛ぼう！": 56% (150.9219/269s)
+[1]Laida       |09:30:16 | 11-10-2026| music "せーので、飛ぼう！": 59% (160.8723/269s)
+[1]Laida       |09:30:27 | 11-10-2026| music "せーので、飛ぼう！": 63% (171.27089999999998/269s)
+[1]Laida       |09:30:39 | 11-10-2026| music "せーので、飛ぼう！": 67% (181.20149999999998/269s)
+[1]Laida       |09:30:51 | 11-10-2026| music "せーので、飛ぼう！": 71% (191.6109/269s)
+[1]Laida       |09:31:02 | 11-10-2026| music "せーので、飛ぼう！": 75% (202.1103/269s)
+[1]Laida       |09:31:13 | 11-10-2026| music "せーので、飛ぼう！": 78% (212.4234/269s)
+[1]Laida       |09:31:25 | 11-10-2026| music "せーので、飛ぼう！": 82% (222.33329999999998/269s)
+[1]Laida       |09:31:26 | 11-10-2026| music "せーので、飛ぼう！": selesai 222.33329999999998s
+[1]Laida       |09:31:29 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Laida       |09:31:40 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Laida       |09:31:51 | 11-10-2026| music "ON CHAIN NEXUS": 6% (19.1124/276s)
+[1]Laida       |09:32:03 | 11-10-2026| music "ON CHAIN NEXUS": 10% (29.3589/276s)
+[1]Laida       |09:32:14 | 11-10-2026| music "ON CHAIN NEXUS": 14% (40.2543/276s)
+[1]Laida       |09:32:26 | 11-10-2026| music "ON CHAIN NEXUS": 18% (50.2128/276s)
+[1]Laida       |09:32:37 | 11-10-2026| music "ON CHAIN NEXUS": 21% (60.435900000000004/276s)
+[1]Laida       |09:32:48 | 11-10-2026| music "ON CHAIN NEXUS": 25% (70.443/276s)
+[1]Laida       |09:32:59 | 11-10-2026| music "ON CHAIN NEXUS": 29% (80.4483/276s)
+[1]Laida       |09:33:10 | 11-10-2026| music "ON CHAIN NEXUS": 32% (90.37440000000001/276s)
+[1]Laida       |09:33:22 | 11-10-2026| music "ON CHAIN NEXUS": 36% (100.3374/276s)
+[1]Laida       |09:33:33 | 11-10-2026| music "ON CHAIN NEXUS": 40% (110.64330000000001/276s)
+[1]Laida       |09:33:44 | 11-10-2026| music "ON CHAIN NEXUS": 43% (120.67920000000001/276s)
+[1]Laida       |09:33:56 | 11-10-2026| music "ON CHAIN NEXUS": 47% (130.779/276s)
+[1]Laida       |09:34:07 | 11-10-2026| music "ON CHAIN NEXUS": 51% (141.5007/276s)
+[1]Laida       |09:34:18 | 11-10-2026| music "ON CHAIN NEXUS": 54% (151.713/276s)
+[1]Laida       |09:34:29 | 11-10-2026| music "ON CHAIN NEXUS": 58% (161.631/276s)
+[1]Laida       |09:34:41 | 11-10-2026| music "ON CHAIN NEXUS": 62% (171.5355/276s)
+[1]Laida       |09:34:52 | 11-10-2026| music "ON CHAIN NEXUS": 65% (181.68210000000002/276s)
+[1]Laida       |09:35:03 | 11-10-2026| music "ON CHAIN NEXUS": 69% (191.67120000000003/276s)
+[1]Laida       |09:35:15 | 11-10-2026| music "ON CHAIN NEXUS": 73% (202.30920000000003/276s)
+[1]Laida       |09:35:26 | 11-10-2026| music "ON CHAIN NEXUS": 76% (212.25240000000002/276s)
+[1]Laida       |09:35:37 | 11-10-2026| music "ON CHAIN NEXUS": 80% (222.35850000000002/276s)
+[1]Laida       |09:35:38 | 11-10-2026| music "ON CHAIN NEXUS": selesai 222.35850000000002s
+[1]Laida       |09:35:39 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Laida       |09:35:41 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Laida       |09:35:46 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Laida       |09:35:49 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Laida menjalankan: Claim Missions
+[1]Laida       |09:35:50 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Laida       |09:35:50 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laida       |09:35:50 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Laida menjalankan: Check Eligibility
+
+--- eligibility [1]Laida ---
+  @laidawinata | score=930 rank=6340
+  tasks    [###################-] 72/75
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Laida menjalankan: Read Manga
+[1]Laida       |09:35:56 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Laida       |09:35:56 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Laida       |09:36:04 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Laida       |09:36:08 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Laida       |09:36:13 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 10s
+[1]Laida       |09:36:18 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 15s
+[1]Laida       |09:36:24 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 19s
+[1]Laida       |09:36:28 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 25s
+[1]Laida       |09:36:33 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 30s
+[1]Laida       |09:36:37 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 34s
+[1]Laida       |09:36:43 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 39s
+[1]Laida       |09:36:48 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 44s
+[1]Laida       |09:36:52 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 49s
+[1]Laida       |09:36:57 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 54s
+[1]Laida       |09:37:01 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 58s
+[1]Laida       |09:37:06 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 63s
+[1]Laida       |09:37:11 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 67s
+[1]Laida       |09:37:15 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 72s
+[1]Laida       |09:37:20 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 77s
+[1]Laida       |09:37:26 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 82s
+[1]Laida       |09:37:31 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 87s
+[1]Laida       |09:37:36 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Laida       |09:37:39 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Laida       |09:37:45 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Laida       |09:37:49 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Laida       |09:37:54 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Laida       |09:37:58 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Laida       |09:38:03 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
+[1]Laida       |09:38:07 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
+[1]Laida       |09:38:12 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 27s
+[1]Laida       |09:38:17 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 32s
+[1]Laida       |09:38:22 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
+[1]Laida       |09:38:27 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
+[1]Laida       |09:38:31 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 47s
+[1]Laida       |09:38:36 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 52s
+[1]Laida       |09:38:41 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 56s
+[1]Laida       |09:38:46 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 61s
+[1]Laida       |09:38:50 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 66s
+[1]Laida       |09:38:55 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 70s
+[1]Laida       |09:39:00 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 75s
+[1]Laida       |09:39:04 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 80s
+[1]Laida       |09:39:09 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Laida       |09:39:12 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Laida       |09:39:18 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Laida       |09:39:23 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Laida       |09:39:28 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Laida       |09:39:33 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Laida       |09:39:38 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 20s
+[1]Laida       |09:39:43 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 25s
+[1]Laida       |09:39:48 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
+[1]Laida       |09:39:52 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 34s
+[1]Laida       |09:39:57 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 39s
+[1]Laida       |09:40:02 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 44s
+[1]Laida       |09:40:08 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 49s
+[1]Laida       |09:40:13 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 55s
+[1]Laida       |09:40:18 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 60s
+[1]Laida       |09:40:22 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 64s
+[1]Laida       |09:40:27 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 69s
+[1]Laida       |09:40:32 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 74s
+[1]Laida       |09:40:37 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 79s
+[1]Laida       |09:40:42 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Laida       |09:40:45 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Laida       |09:40:51 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Laida       |09:40:56 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Laida       |09:41:01 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 10s
+[1]Laida       |09:41:06 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
+[1]Laida       |09:41:11 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 20s
+[1]Laida       |09:41:15 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 25s
+[1]Laida       |09:41:20 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
+[1]Laida       |09:41:26 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 34s
+[1]Laida       |09:41:30 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 40s
+[1]Laida       |09:41:36 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 44s
+[1]Laida       |09:41:40 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 50s
+[1]Laida       |09:41:46 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 54s
+[1]Laida       |09:41:51 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 60s
+[1]Laida       |09:41:56 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 65s
+[1]Laida       |09:42:01 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 70s
+[1]Laida       |09:42:06 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 75s
+[1]Laida       |09:42:11 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 80s
+[1]Laida       |09:42:16 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Laida       |09:42:19 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Laida       |09:42:25 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Laida       |09:42:30 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Laida       |09:42:35 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
+[1]Laida       |09:42:40 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 15s
+[1]Laida       |09:42:44 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 20s
+[1]Laida       |09:42:49 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 24s
+[1]Laida       |09:42:54 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 29s
+[1]Laida       |09:42:58 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 33s
+[1]Laida       |09:43:04 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 38s
+[1]Laida       |09:43:08 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 44s
+[1]Laida       |09:43:14 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 48s
+[1]Laida       |09:43:18 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 53s
+[1]Laida       |09:43:23 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 58s
+[1]Laida       |09:43:27 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 63s
+[1]Laida       |09:43:32 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 67s
+[1]Laida       |09:43:36 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 72s
+[1]Laida       |09:43:41 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 76s
+[1]Laida       |09:43:46 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 81s
+[1]Laida       |09:43:51 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Laida       |09:43:54 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Laida       |09:44:00 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Laida       |09:44:05 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Laida       |09:44:10 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Laida       |09:44:16 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Laida       |09:44:21 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 21s
+[1]Laida       |09:44:25 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 25s
+[1]Laida       |09:44:31 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 30s
+[1]Laida       |09:44:36 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 36s
+[1]Laida       |09:44:41 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 41s
+[1]Laida       |09:44:46 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 45s
+[1]Laida       |09:44:51 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 50s
+[1]Laida       |09:44:55 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 55s
+[1]Laida       |09:45:00 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 60s
+[1]Laida       |09:45:06 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 65s
+[1]Laida       |09:45:11 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 70s
+[1]Laida       |09:45:17 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 75s
+[1]Laida       |09:45:22 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 81s
+[1]Laida       |09:45:28 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Laida       |09:45:31 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Laida       |09:45:37 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Laida       |09:45:42 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Laida       |09:45:46 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Laida       |09:45:51 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
+[1]Laida       |09:45:56 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
+[1]Laida       |09:46:01 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
+[1]Laida       |09:46:06 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
+[1]Laida       |09:46:11 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
+[1]Laida       |09:46:15 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 38s
+[1]Laida       |09:46:20 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 43s
+[1]Laida       |09:46:25 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
+[1]Laida       |09:46:31 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 52s
+[1]Laida       |09:46:36 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
+[1]Laida       |09:46:42 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 63s
+[1]Laida       |09:46:46 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 69s
+[1]Laida       |09:46:51 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 73s
+[1]Laida       |09:46:56 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 78s
+[1]Laida       |09:47:00 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 83s
+[1]Laida       |09:47:05 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 87s
+[1]Laida       |09:47:10 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 92s
+[1]Laida       |09:47:15 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 98s
+[1]Laida       |09:47:20 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Laida       |09:47:23 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Laida       |09:47:30 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Laida       |09:47:35 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Laida       |09:47:41 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Laida       |09:47:46 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 16s
+[1]Laida       |09:47:51 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 21s
+[1]Laida       |09:47:56 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 26s
+[1]Laida       |09:48:00 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 31s
+[1]Laida       |09:48:05 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 35s
+[1]Laida       |09:48:10 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 41s
+[1]Laida       |09:48:15 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 46s
+[1]Laida       |09:48:20 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 50s
+[1]Laida       |09:48:24 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 55s
+[1]Laida       |09:48:29 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 59s
+[1]Laida       |09:48:34 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 64s
+[1]Laida       |09:48:39 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 69s
+[1]Laida       |09:48:43 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 74s
+[1]Laida       |09:48:48 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 79s
+[1]Laida       |09:48:53 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 83s
+[1]Laida       |09:48:58 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Laida       |09:49:01 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Laida       |09:49:08 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Laida       |09:49:13 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Laida       |09:49:18 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Laida       |09:49:23 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 15s
+[1]Laida       |09:49:27 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
+[1]Laida       |09:49:33 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
+[1]Laida       |09:49:37 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 29s
+[1]Laida       |09:49:42 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 34s
+[1]Laida       |09:49:47 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 39s
+[1]Laida       |09:49:52 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 44s
+[1]Laida       |09:49:58 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 49s
+[1]Laida       |09:50:04 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 55s
+[1]Laida       |09:50:10 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 61s
+[1]Laida       |09:50:14 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 66s
+[1]Laida       |09:50:20 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 71s
+[1]Laida       |09:50:25 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 76s
+[1]Laida       |09:50:29 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 82s
+[1]Laida       |09:50:34 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 86s
+[1]Laida       |09:50:38 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 90s
+[1]Laida       |09:50:45 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 95s
+[1]Laida       |09:50:50 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Laida       |09:50:54 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Laida       |09:51:02 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Laida       |09:51:07 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Laida       |09:51:12 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 11s
+[1]Laida       |09:51:17 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 16s
+[1]Laida       |09:51:22 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 20s
+[1]Laida       |09:51:27 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 26s
+[1]Laida       |09:51:33 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 31s
+[1]Laida       |09:51:38 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 37s
+[1]Laida       |09:51:44 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 42s
+[1]Laida       |09:51:49 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Laida       |09:51:52 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Laida       |09:52:00 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Laida       |09:52:04 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 6s
+[1]Laida       |09:52:09 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 11s
+[1]Laida       |09:52:14 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 16s
+[1]Laida       |09:52:19 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 21s
+[1]Laida       |09:52:24 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 26s
+[1]Laida       |09:52:28 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 30s
+[1]Laida       |09:52:33 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 35s
+[1]Laida       |09:52:38 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 40s
+[1]Laida       |09:52:43 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 45s
+[1]Laida       |09:52:48 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Laida       |09:52:51 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Laida       |09:52:57 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Laida       |09:53:02 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
+[1]Laida       |09:53:06 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 10s
+[1]Laida       |09:53:12 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Laida       |09:53:17 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
+[1]Laida       |09:53:22 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 25s
+[1]Laida       |09:53:27 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
+[1]Laida       |09:53:31 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 34s
+[1]Laida       |09:53:36 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 39s
+[1]Laida       |09:53:41 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 44s
+[1]Laida       |09:53:46 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 49s
+[1]Laida       |09:53:52 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Laida       |09:53:55 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Laida       |09:54:01 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Laida       |09:54:06 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Laida       |09:54:11 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 10s
+[1]Laida       |09:54:15 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 15s
+[1]Laida       |09:54:20 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
+[1]Laida       |09:54:25 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 24s
+[1]Laida       |09:54:29 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 29s
+[1]Laida       |09:54:34 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
+[1]Laida       |09:54:38 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 38s
+[1]Laida       |09:54:43 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 43s
+[1]Laida       |09:54:48 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 47s
+[1]Laida       |09:54:52 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Laida menjalankan: Get Gift
+[1]Laida       |09:54:56 | 11-10-2026| gift: 3/3 belum diterima
+[1]Laida       |09:54:57 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Laida       |09:55:00 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Laida       |09:55:04 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Laida menjalankan: Setup Profile
+[1]Laida       |09:55:07 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Laida       |09:55:08 | 11-10-2026| profile: OK bio="https://x.com/laidawinata" fav=yuki awarded=true +10pt
+--> [1]Laida menjalankan: Bind Wallet
+[1]Laida       |09:55:09 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 6TYyvjioVwbYvYVK4a1t1ACA3h6NfhbTCPQZkxR28efR (cek cocok dengan wallet kamu!)
+[1]Laida       |09:55:10 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Laida       |09:55:10 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Laida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/3 completed | musik 5 trek ~1040.4306s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
