@@ -12,82 +12,123 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laida =====
-[1]Laida       |10:28:45 | 19-10-2026| login OK @laidawinata | score=1430 rank=4840
-[1]Laida       |10:28:45 | 19-10-2026| serverTime=2026-10-19T10:28:45.000Z local=2026-10-19T10:28:45.074Z
+[1]Laida       |09:47:29 | 20-10-2026| login OK @laidawinata | score=1520 rank=4638
+[1]Laida       |09:47:29 | 20-10-2026| serverTime=2026-10-20T09:47:29.000Z local=2026-10-20T09:47:29.650Z
 --> [1]Laida menjalankan: Claim Daily
-[1]Laida       |10:28:47 | 19-10-2026| daily: OK +10 poin score=1440
---> [1]Laida menjalankan: Auto All Tasks (8 pending)
-[1]Laida       |10:28:49 | 19-10-2026| [1/8] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128436790810818
-[1]Laida       |10:28:49 | 19-10-2026| delay 10s...
-[1]Laida       |10:29:03 | 19-10-2026| [2/8] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128610135994023
-[1]Laida       |10:29:03 | 19-10-2026| delay 10s...
-[1]Laida       |10:29:16 | 19-10-2026| [3/8] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128305364130284
-[1]Laida       |10:29:16 | 19-10-2026| delay 10s...
-[1]Laida       |10:29:29 | 19-10-2026| [4/8] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128517698745269
-[1]Laida       |10:29:29 | 19-10-2026| delay 10s...
-[1]Laida       |10:29:43 | 19-10-2026| [5/8] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128670555354427
-[1]Laida       |10:29:43 | 19-10-2026| delay 10s...
-[1]Laida       |10:29:55 | 19-10-2026| [6/8] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128616601286195
-[1]Laida       |10:29:55 | 19-10-2026| delay 10s...
-[1]Laida       |10:30:09 | 19-10-2026| [7/8] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128530749116982
-[1]Laida       |10:30:09 | 19-10-2026| delay 10s...
-[1]Laida       |10:30:21 | 19-10-2026| [8/8] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/laidawinata/status/2112128910523459020
-[1]Laida       |10:30:21 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laida       |10:30:23 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/laidawinata/status/2112128639581231021
+[1]Laida       |09:47:30 | 20-10-2026| daily: OK +10 poin score=1530
+--> [1]Laida menjalankan: Auto All Tasks (6 pending)
+[1]Laida       |09:47:33 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480430405045701
+[1]Laida       |09:47:33 | 20-10-2026| delay 10s...
+[1]Laida       |09:47:45 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480448761124760
+[1]Laida       |09:47:45 | 20-10-2026| delay 10s...
+[1]Laida       |09:47:57 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480452861346281
+[1]Laida       |09:47:57 | 20-10-2026| delay 10s...
+[1]Laida       |09:48:09 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480428783342931
+[1]Laida       |09:48:09 | 20-10-2026| delay 10s...
+[1]Laida       |09:48:21 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480597144867450
+[1]Laida       |09:48:21 | 20-10-2026| delay 10s...
+[1]Laida       |09:48:33 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/laidawinata/status/2112480618215001918
+[1]Laida       |09:48:33 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laida       |09:48:35 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/laidawinata/status/2112480627232771044
 --> [1]Laida menjalankan: Watch Anime
-[1]Laida       |10:30:24 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Laida       |10:30:24 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Laida       |10:30:27 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Laida       |10:30:32 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Laida       |10:30:34 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Laida       |10:30:39 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Laida       |10:30:40 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Laida       |10:30:45 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Laida       |10:30:47 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Laida       |09:48:36 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Laida       |09:48:36 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Laida       |09:48:38 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Laida       |09:48:44 | 20-10-2026| watch oshi-captains-hat: 5% (5.23/92.00s)
+[1]Laida       |09:48:50 | 20-10-2026| watch oshi-captains-hat: 11% (10.67/92.00s)
+[1]Laida       |09:48:56 | 20-10-2026| watch oshi-captains-hat: 17% (16.21/92.00s)
+[1]Laida       |09:49:03 | 20-10-2026| watch oshi-captains-hat: 23% (21.75/92.00s)
+[1]Laida       |09:49:09 | 20-10-2026| watch oshi-captains-hat: 30% (27.78/92.00s)
+[1]Laida       |09:49:15 | 20-10-2026| watch oshi-captains-hat: 36% (33.27/92.00s)
+[1]Laida       |09:49:22 | 20-10-2026| watch oshi-captains-hat: 42% (38.84/92.00s)
+[1]Laida       |09:49:28 | 20-10-2026| watch oshi-captains-hat: 48% (44.87/92.00s)
+[1]Laida       |09:49:34 | 20-10-2026| watch oshi-captains-hat: 54% (50.37/92.00s)
+[1]Laida       |09:49:40 | 20-10-2026| watch oshi-captains-hat: 60% (55.87/92.00s)
+[1]Laida       |09:49:46 | 20-10-2026| watch oshi-captains-hat: 66% (61.32/92.00s)
+[1]Laida       |09:49:52 | 20-10-2026| watch oshi-captains-hat: 72% (66.88/92.00s)
+[1]Laida       |09:49:58 | 20-10-2026| watch oshi-captains-hat: 78% (72.45/92.00s)
+[1]Laida       |09:50:04 | 20-10-2026| watch oshi-captains-hat: 84% (77.98/92.00s)
+[1]Laida       |09:50:10 | 20-10-2026| watch oshi-captains-hat: 90% (83.40/92.00s)
+[1]Laida       |09:50:10 | 20-10-2026| watch oshi-captains-hat: COMPLETED (83.40/92.00s)
+[1]Laida       |09:50:15 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Laida       |09:50:33 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Laida       |09:50:39 | 20-10-2026| watch oshi-rainbow-star: 6% (5.17/86.00s)
+[1]Laida       |09:50:46 | 20-10-2026| watch oshi-rainbow-star: 13% (11.31/86.00s)
+[1]Laida       |09:50:53 | 20-10-2026| watch oshi-rainbow-star: 20% (17.37/86.00s)
+[1]Laida       |09:51:00 | 20-10-2026| watch oshi-rainbow-star: 26% (23.16/86.00s)
+[1]Laida       |09:51:06 | 20-10-2026| watch oshi-rainbow-star: 34% (29.45/86.00s)
+[1]Laida       |09:51:13 | 20-10-2026| watch oshi-rainbow-star: 41% (35.42/86.00s)
+[1]Laida       |09:51:19 | 20-10-2026| watch oshi-rainbow-star: 48% (41.38/86.00s)
+[1]Laida       |09:51:25 | 20-10-2026| watch oshi-rainbow-star: 54% (46.88/86.00s)
+[1]Laida       |09:51:32 | 20-10-2026| watch oshi-rainbow-star: 61% (52.67/86.00s)
+[1]Laida       |09:51:38 | 20-10-2026| watch oshi-rainbow-star: 68% (58.52/86.00s)
+[1]Laida       |09:51:44 | 20-10-2026| watch oshi-rainbow-star: 74% (64.09/86.00s)
+[1]Laida       |09:51:51 | 20-10-2026| watch oshi-rainbow-star: 81% (69.80/86.00s)
+[1]Laida       |09:51:58 | 20-10-2026| watch oshi-rainbow-star: 87% (75.55/86.00s)
+[1]Laida       |09:52:04 | 20-10-2026| watch oshi-rainbow-star: 94% (81.66/86.00s)
+[1]Laida       |09:52:04 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (81.66/86.00s)
+[1]Laida       |09:52:09 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Laida       |09:52:12 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Laida       |09:52:18 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.41/87.00s)
+[1]Laida       |09:52:24 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.90/87.00s)
+[1]Laida       |09:52:30 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.46/87.00s)
+[1]Laida       |09:52:36 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.96/87.00s)
+[1]Laida       |09:52:42 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.42/87.00s)
+[1]Laida       |09:52:49 | 20-10-2026| watch oshi-rainbow-lighthouse: 37% (32.88/87.00s)
+[1]Laida       |09:52:55 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.45/87.00s)
+[1]Laida       |09:53:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (43.91/87.00s)
+[1]Laida       |09:53:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (50.15/87.00s)
+[1]Laida       |09:53:14 | 20-10-2026| watch oshi-rainbow-lighthouse: 64% (55.73/87.00s)
+[1]Laida       |09:53:20 | 20-10-2026| watch oshi-rainbow-lighthouse: 70% (61.19/87.00s)
+[1]Laida       |09:53:27 | 20-10-2026| watch oshi-rainbow-lighthouse: 76% (66.67/87.00s)
+[1]Laida       |09:53:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 83% (72.87/87.00s)
+[1]Laida       |09:53:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 89% (78.29/87.00s)
+[1]Laida       |09:53:47 | 20-10-2026| watch oshi-rainbow-lighthouse: 96% (83.80/87.00s)
+[1]Laida       |09:53:47 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (83.80/87.00s)
+[1]Laida       |09:53:52 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Laida       |09:53:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Laida       |09:54:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.24/181.00s)
+[1]Laida       |09:54:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.83/181.00s)
+[1]Laida       |09:54:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.37/181.00s)
+[1]Laida       |09:54:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.34/181.00s)
+[1]Laida       |09:54:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (28.42/181.00s)
+[1]Laida       |09:54:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (34.08/181.00s)
+[1]Laida       |09:54:39 | 20-10-2026| watch bakeru-ikesou-jan-mv: 22% (39.93/181.00s)
+[1]Laida       |09:54:45 | 20-10-2026| watch bakeru-ikesou-jan-mv: 25% (45.67/181.00s)
+[1]Laida       |09:54:51 | 20-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.27/181.00s)
+[1]Laida       |09:54:57 | 20-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.68/181.00s)
+[1]Laida       |09:55:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.49/181.00s)
+[1]Laida       |09:55:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
+[1]Laida       |09:55:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
 --> [1]Laida menjalankan: Read Article
-[1]Laida       |10:30:49 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Laida       |10:30:50 | 19-10-2026| mint eligibility: {"userId":"2011508176097853443","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a1
-[1]Laida       |10:30:50 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Laida       |09:55:16 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Quiz Anime
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Laida       |10:30:51 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Laida       |09:55:16 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laida       |10:30:54 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Laida       |10:30:55 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |10:30:55 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |10:30:55 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |09:55:16 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Laida       |09:55:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Claim Missions
-[1]Laida       |10:30:56 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |10:30:56 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |10:30:56 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |09:55:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Check Eligibility
 
 --- eligibility [1]Laida ---
-  @laidawinata | score=1430 rank=4840
-  tasks    [##################--] 74/82
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
-  watch    [####################] 18/17
-  music    [####################] 11/11
-  artikel  [####################] 27/27
-  mint: requirementsMet=false mintOpen=false discord=true
+  @laidawinata | score=1520 rank=4638
+  tasks    [##################--] 73/79
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Laida menjalankan: Read Manga
-[1]Laida       |10:31:05 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Laida       |09:55:18 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Get Gift
-[1]Laida       |10:31:06 | 19-10-2026| gift: 0/4 belum diterima
+[1]Laida       |09:55:18 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Setup Profile
-[1]Laida       |10:31:06 | 19-10-2026| profile: bio="https://x.com/laidawinata" fav=yuki rewardAt=1791712508
-[1]Laida       |10:31:06 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Laida       |09:55:18 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Laida menjalankan: Bind Wallet
-[1]Laida       |10:31:07 | 19-10-2026| wallet: sudah terikat 6TYyvjioVw... (solana)
+[1]Laida       |09:55:18 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Laida: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Laida: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
