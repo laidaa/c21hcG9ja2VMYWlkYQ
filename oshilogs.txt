@@ -12,84 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laida =====
-[1]Laida       |09:48:12 | 21-10-2026| login OK @laidawinata | score=1590 rank=4489
-[1]Laida       |09:48:12 | 21-10-2026| serverTime=2026-10-21T09:48:12.000Z local=2026-10-21T09:48:12.811Z
+[1]Laida       |09:05:27 | 22-10-2026| login OK @laidawinata | score=1660 rank=4353
+[1]Laida       |09:05:27 | 22-10-2026| serverTime=2026-10-22T09:05:27.000Z local=2026-10-22T09:05:27.079Z
 --> [1]Laida menjalankan: Claim Daily
-[1]Laida       |09:48:14 | 21-10-2026| daily: OK +10 poin score=1600
---> [1]Laida menjalankan: Auto All Tasks (6 pending)
-[1]Laida       |09:48:17 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/laidawinata/status/2112842861670954733
-[1]Laida       |09:48:17 | 21-10-2026| delay 10s...
-[1]Laida       |09:48:29 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/laidawinata/status/2112843011605858552
-[1]Laida       |09:48:29 | 21-10-2026| delay 10s...
-[1]Laida       |09:48:41 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/laidawinata/status/2112843177585511843
-[1]Laida       |09:48:41 | 21-10-2026| delay 10s...
-[1]Laida       |09:48:55 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/laidawinata/status/2112843094568517252
-[1]Laida       |09:48:55 | 21-10-2026| delay 10s...
-[1]Laida       |09:49:07 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/laidawinata/status/2112843309859482210
-[1]Laida       |09:49:07 | 21-10-2026| delay 10s...
-[1]Laida       |09:49:20 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Laida       |09:49:20 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laida       |09:49:21 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/laidawinata/status/2112843128667535280
+[1]Laida       |09:05:28 | 22-10-2026| daily: OK +10 poin score=1670
+--> [1]Laida menjalankan: Auto All Tasks (9 pending)
+[1]Laida       |09:05:29 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194455797620357
+[1]Laida       |09:05:29 | 22-10-2026| delay 10s...
+[1]Laida       |09:05:41 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194726841817335
+[1]Laida       |09:05:41 | 22-10-2026| delay 10s...
+[1]Laida       |09:05:53 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194528384677829
+[1]Laida       |09:05:53 | 22-10-2026| delay 10s...
+[1]Laida       |09:06:04 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194635949865261
+[1]Laida       |09:06:04 | 22-10-2026| delay 10s...
+[1]Laida       |09:06:16 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194608910196015
+[1]Laida       |09:06:16 | 22-10-2026| delay 10s...
+[1]Laida       |09:06:28 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194930117720483
+[1]Laida       |09:06:28 | 22-10-2026| delay 10s...
+[1]Laida       |09:06:39 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194887939624532
+[1]Laida       |09:06:39 | 22-10-2026| delay 10s...
+[1]Laida       |09:06:51 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113194944602033794
+[1]Laida       |09:06:51 | 22-10-2026| delay 10s...
+[1]Laida       |09:07:04 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/laidawinata/status/2113195089562345834
+[1]Laida       |09:07:04 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laida       |09:07:05 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/laidawinata/status/2113194795099806889
 --> [1]Laida menjalankan: Watch Anime
-[1]Laida       |09:49:22 | 21-10-2026| watch: 1 video belum completed: bakeru-ikesou-jan-mv
-[1]Laida       |09:49:22 | 21-10-2026| watch [1/1] farming bakeru-ikesou-jan-mv...
-[1]Laida       |09:49:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 68.6s diabaikan)
-[1]Laida       |09:49:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:49:31 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:49:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:49:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:49:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:49:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.57/181.00s)
-[1]Laida       |09:50:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (68.99/181.00s)
-[1]Laida       |09:50:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.28/181.00s)
-[1]Laida       |09:50:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.42/181.00s)
-[1]Laida       |09:51:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.34/181.00s)
-[1]Laida       |09:51:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.59/181.00s)
-[1]Laida       |09:51:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 54% (99.35/181.00s)
-[1]Laida       |09:51:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.91/181.00s)
-[1]Laida       |09:51:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (110.47/181.00s)
-[1]Laida       |09:51:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.49/181.00s)
-[1]Laida       |09:51:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.30/181.00s)
-[1]Laida       |09:51:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.92/181.00s)
-[1]Laida       |09:51:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.82/181.00s)
-[1]Laida       |09:51:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (139.41/181.00s)
-[1]Laida       |09:52:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.00/181.00s)
-[1]Laida       |09:52:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (150.62/181.00s)
-[1]Laida       |09:52:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.21/181.00s)
-[1]Laida       |09:52:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (161.87/181.00s)
-[1]Laida       |09:52:31 | 21-10-2026| watch bakeru-ikesou-jan-mv: 92% (167.48/181.00s)
-[1]Laida       |09:52:31 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (167.48/181.00s)
+[1]Laida       |09:07:07 | 22-10-2026| watch: semua video sudah completed
 --> [1]Laida menjalankan: Read Article
-[1]Laida       |09:52:33 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Laida       |09:52:33 | 21-10-2026| mint eligibility: {"userId":"2011508176097853443","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a1
-[1]Laida       |09:52:40 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Laida       |09:07:08 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Laida       |09:07:08 | 22-10-2026| mint eligibility: {"userId":"2011508176097853443","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a1
+[1]Laida       |09:07:15 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Laida       |09:07:23 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Laida menjalankan: Quiz Anime
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Laida       |09:52:46 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Laida       |09:07:26 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Laida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laida       |09:52:48 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Laida       |09:52:49 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |09:52:49 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |09:52:49 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |09:07:27 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Laida       |09:07:28 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Laida       |09:07:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laida       |09:07:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laida menjalankan: Claim Missions
-[1]Laida       |09:52:49 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |09:52:49 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |09:52:49 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |09:07:28 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Laida       |09:07:28 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Laida       |09:07:28 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laida menjalankan: Check Eligibility
 
 --- eligibility [1]Laida ---
-  @laidawinata | score=1590 rank=4489
-  tasks    [###################-] 74/80
+  @laidawinata | score=1660 rank=4353
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -100,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laida menjalankan: Read Manga
-[1]Laida       |09:52:54 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Laida       |09:07:31 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Laida menjalankan: Get Gift
-[1]Laida       |09:52:55 | 21-10-2026| gift: 0/4 belum diterima
+[1]Laida       |09:07:32 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Laida menjalankan: Setup Profile
-[1]Laida       |09:52:56 | 21-10-2026| profile: bio="https://x.com/laidawinata" fav=yuki rewardAt=1791712508
-[1]Laida       |09:52:56 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Laida       |09:07:33 | 22-10-2026| profile: bio="https://x.com/laidawinata" fav=yuki rewardAt=1791712508
+[1]Laida       |09:07:33 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Laida menjalankan: Bind Wallet
-[1]Laida       |09:52:57 | 21-10-2026| wallet: sudah terikat 6TYyvjioVw... (solana)
+[1]Laida       |09:07:33 | 22-10-2026| wallet: sudah terikat 6TYyvjioVw... (solana)
 
 == RINGKASAN ==
-- Laida: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Laida: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
