@@ -12,39 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Laida =====
-[1]Laida       |14:08:39 | 17-11-2026| login OK @laidawinata | score=3300 rank=2313
-[1]Laida       |14:08:39 | 17-11-2026| serverTime=2026-11-17T14:08:39.000Z local=2026-11-17T14:08:39.983Z
+[1]Laida       |13:40:40 | 18-11-2026| login OK @laidawinata | score=3340 rank=2266
+[1]Laida       |13:40:40 | 18-11-2026| serverTime=2026-11-18T13:40:39.000Z local=2026-11-18T13:40:40.145Z
 --> [1]Laida menjalankan: Claim Daily
-[1]Laida       |14:08:41 | 17-11-2026| daily: OK +10 poin score=3310
---> [1]Laida menjalankan: Auto All Tasks (3 pending)
-[1]Laida       |14:08:44 | 17-11-2026| [1/3] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212267665187629 | proof=https://x.com/laidawinata/status/2122692892646063828
-[1]Laida       |14:08:44 | 17-11-2026| delay 10s...
-[1]Laida       |14:08:57 | 17-11-2026| [2/3] 26792b10 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212267665187629 | proof=https://x.com/laidawinata/status/2122693136763052444
-[1]Laida       |14:08:57 | 17-11-2026| delay 10s...
-[1]Laida       |14:09:09 | 17-11-2026| [3/3] 7989db96 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212267665187629 | proof=https://x.com/laidawinata/status/2122692972715630765
-[1]Laida       |14:09:09 | 17-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Laida       |14:09:11 | 17-11-2026| [1/1] f590ef11 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f590ef11-d2d6-4143-967a-8a3e6e0c404a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2122676651876290 | proof=https://x.com/laidawinata/status/2122693226598022037
+[1]Laida       |13:40:42 | 18-11-2026| daily: OK +10 poin score=3350
+--> [1]Laida menjalankan: Auto All Tasks (1 pending)
+[1]Laida       |13:40:44 | 18-11-2026| [1/1] 06ac6e5b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"06ac6e5b-1491-427f-bab1-75fd1484a01c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212304095311217 | proof=https://x.com/laidawinata/status/2123048339028525989
+[1]Laida       |13:40:44 | 18-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Laida       |13:40:46 | 18-11-2026| [1/1] 06ac6e5b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"06ac6e5b-1491-427f-bab1-75fd1484a01c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2123040953112178 | proof=https://x.com/laidawinata/status/2123048312508385274
 --> [1]Laida menjalankan: Watch Anime
-[1]Laida       |14:09:12 | 17-11-2026| watch: semua video sudah completed
+[1]Laida       |13:40:47 | 18-11-2026| watch: semua video sudah completed
 --> [1]Laida menjalankan: Read Article
-[1]Laida       |14:09:13 | 17-11-2026| news: 34/34 artikel selesai dibaca
-[1]Laida       |14:09:13 | 17-11-2026| mint eligibility: {"userId":"2011508176097853443","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a1
-[1]Laida       |14:09:13 | 17-11-2026| news: semua artikel sudah dibaca
+[1]Laida       |13:40:48 | 18-11-2026| news: 34/34 artikel selesai dibaca
+[1]Laida       |13:40:48 | 18-11-2026| mint eligibility: {"userId":"2011508176097853443","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laidawinata","status":"submitted","revision":"0c16d07e-07c0-4ac1-b595-729d1af6a1
+[1]Laida       |13:40:48 | 18-11-2026| news: semua artikel sudah dibaca
 --> [1]Laida menjalankan: Quiz Anime
 --> [1]Laida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Laida       |14:09:16 | 17-11-2026| music: kedua misi sudah tercapai, stop
-[1]Laida       |14:09:17 | 17-11-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |14:09:17 | 17-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |14:09:17 | 17-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |13:40:51 | 18-11-2026| music: kedua misi sudah tercapai, stop
+[1]Laida       |13:40:51 | 18-11-2026| mission music-listens-10: sudah diklaim
+[1]Laida       |13:40:51 | 18-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laida       |13:40:51 | 18-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laida menjalankan: Claim Missions
-[1]Laida       |14:09:17 | 17-11-2026| mission music-listens-10: sudah diklaim
-[1]Laida       |14:09:17 | 17-11-2026| mission music-minutes-30: sudah diklaim
-[1]Laida       |14:09:17 | 17-11-2026| mission anime-completed-3: sudah diklaim
+[1]Laida       |13:40:52 | 18-11-2026| mission music-listens-10: sudah diklaim
+[1]Laida       |13:40:52 | 18-11-2026| mission music-minutes-30: sudah diklaim
+[1]Laida       |13:40:52 | 18-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Laida menjalankan: Check Eligibility
 
 --- eligibility [1]Laida ---
-  @laidawinata | score=3300 rank=2313
-  tasks    [########------------] 2/5
+  @laidawinata | score=3340 rank=2266
+  tasks    [################----] 4/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Laida menjalankan: Read Manga
-[1]Laida       |14:09:22 | 17-11-2026| manga: 0/13 chapter belum completed
+[1]Laida       |13:40:56 | 18-11-2026| manga: 0/13 chapter belum completed
 --> [1]Laida menjalankan: Get Gift
-[1]Laida       |14:09:24 | 17-11-2026| gift: 3/12 belum diterima
-[1]Laida       |14:09:25 | 17-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laida       |14:09:28 | 17-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Laida       |14:09:31 | 17-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laida       |13:40:59 | 18-11-2026| gift: 3/12 belum diterima
+[1]Laida       |13:41:00 | 18-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laida       |13:41:03 | 18-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Laida       |13:41:05 | 18-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Laida menjalankan: Setup Profile
-[1]Laida       |14:09:34 | 17-11-2026| profile: bio="https://x.com/laidawinata" fav=yuki rewardAt=1791712508
-[1]Laida       |14:09:34 | 17-11-2026| profile: bonus sudah diklaim, skip
+[1]Laida       |13:41:08 | 18-11-2026| profile: bio="https://x.com/laidawinata" fav=yuki rewardAt=1791712508
+[1]Laida       |13:41:08 | 18-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Laida menjalankan: Bind Wallet
-[1]Laida       |14:09:34 | 17-11-2026| wallet: sudah terikat 6TYyvjioVw... (solana)
+[1]Laida       |13:41:09 | 18-11-2026| wallet: sudah terikat 6TYyvjioVw... (solana)
 
 == RINGKASAN ==
-- Laida: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Laida: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
